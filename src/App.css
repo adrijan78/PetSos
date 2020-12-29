@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.carousel-inner > .item > img {
+  width:640px!important;
+  height:360px!important;
+}
+.w-100 {
+  width: 100% !important;
+  height: 100vh;
+}
+
+.gradientA {
+  background: rgb(9,129,74);
+  background: linear-gradient(90deg, rgba(9,129,74,1) 35%, rgba(44,122,80,1) 67%, rgba(141,167,166,1) 100%);
+}
